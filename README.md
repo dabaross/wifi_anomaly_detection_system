@@ -1,4 +1,3 @@
-<img width="1033" height="459" alt="image" src="https://github.com/user-attachments/assets/56177110-7d42-4b48-81c3-de02aa5032b6" />
 # WiFi Anomaly Detection System
 
 Real-time WiFi anomaly detection using **ESP32**, **MQTT**, **Isolation Forest**, and a **FastAPI + PostgreSQL** backend — fully containerised with Docker.
@@ -198,3 +197,9 @@ wifi_anomaly_detection_system/
 └── requirements.txt
 ```
 
+---
+
+## Author
+
+**Damian** — Electronics & Telecommunications Engineering student, Gdańsk  
+GitHub: [@dabaross](https://github.com/dabaross)
